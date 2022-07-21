@@ -6,7 +6,7 @@
 - I'm from Iran(Urmia) and currently living in Ankara
 - My passion is to explore as many areas as I can to find the best fit for me
 - I do prefer to code in Python or Golang, I am also comfortable with java and C++
-- I've recently started to gain experience in using Django Framework during my wonderful summer internship in [Technarts](http://technarts.com/), and I'm excited to see what will be my next step in this journey
+- I've gained experience using Django Framework during my wonderful summer  2021 internship in [Technarts](http://technarts.com/)
 - I would be happy to discuss any interesting ideas with you, don't hesitate to contact me!
 
 
