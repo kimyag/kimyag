@@ -1,7 +1,7 @@
 ### Hi there, I'm Kimya 👋
 
 
-## I am currently a junior Computer Science student in Bilkent Universty
+## I am currently a Senior Computer Science student in Bilkent Universty
 
 - I'm from Iran(Urmia) and currently living in Ankara
 - My passion is to explore as many areas as I can to find the best fit for me
